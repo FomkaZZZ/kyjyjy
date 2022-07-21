@@ -1,0 +1,42 @@
+  .background {
+height: 200px;
+background: linear-gradient(to right, lightgray, lightblue),url(image/BACKGROUND);
+ background-size: cover;
+
+}
+    
+.headtext {
+    font-size:100px;
+    color:lightcyan;
+    font-family: 'Poppins', sans-serif;
+    margin:0 0 auto;
+    text-align: center;
+    text-shadow: 1px 2px black;
+   
+}
+.headtext2 {
+    font-size:77px;
+    color:beige;
+    font-family: 'Poppins', sans-serif;
+    margin:0 0 auto;
+    text-align: center;
+    text-shadow: 1px 2px black;
+    
+}
+.links {
+    text-align:center;
+    
+    background-size: cover;
+    
+}
+
+.contact {
+    text-align:center;
+    font-size:77px;
+    color:blanchedalmond;
+    font-family: 'Poppins', sans-serif;
+        text-shadow: 1px 2px black;
+     font-size:44px;
+     margin:10px 0px 10px 0px
+}    
+
